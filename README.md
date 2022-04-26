@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @minaiscoding
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ethical hacking
+ - Amina khadir 
+ - computer science student at ESI
+ - 18 yo
+ - intrested in cyber security
 
 
 
