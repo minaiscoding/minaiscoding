@@ -24,6 +24,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      - uses: "finnp/create-file-action@master"
+        env:
+            FILE_NAME: "dir/fileName.txt"
+            FILE_DATA: "file content"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
