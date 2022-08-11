@@ -39,3 +39,4 @@ jobs:
           mkdir lol
           touch yes
           echo test, and deploy your project.
+          cat filename | base64
