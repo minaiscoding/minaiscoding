@@ -34,7 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           touch test.txt
-        
-          git add .
-          git commit -m 'added a file'
-          git push -u origin master
+ 
